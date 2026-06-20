@@ -73,19 +73,7 @@ The project generates:
 * `narration.mp3`
 * `bhagat_singh_intro.mp4`
 
-## Sample Screenshots
 
-### Generated Images
-
-(Add screenshots here)
-
-### Video Frames
-
-(Add screenshots here)
-
-### Final Output Video
-
-(Add GIF or video preview here)
 
 ## Future Improvements
 
